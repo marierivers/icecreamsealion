@@ -17,3 +17,5 @@ sundae <- function(flavor, scoops, container) {
 sundae("chocolate", 2, "cone")
 
 # save script in the R folder and the script should be saved with the same name as the function
+
+#run devtools::document() in the console to update documentation
